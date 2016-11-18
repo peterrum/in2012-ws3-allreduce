@@ -68,8 +68,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="160.13916"
-     inkscape:cy="790.02279"
+     inkscape:cx="239.87635"
+     inkscape:cy="669.30986"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1952,5 +1952,77 @@
          x="-25"
          id="tspan6500"
          sodipodi:role="line">Example:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="127.76758"
+       y="500.21933"
+       id="text6521"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6523"
+         x="127.76758"
+         y="500.21933"
+         style="font-size:12px;text-align:start;text-anchor:start">=log(N)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6525"
+       y="500.21933"
+       x="460"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start"
+         y="500.21933"
+         x="460"
+         id="tspan6527"
+         sodipodi:role="line">=log(N)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6529"
+       y="542.36218"
+       x="127.76758"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start"
+         y="542.36218"
+         x="127.76758"
+         id="tspan6531"
+         sodipodi:role="line">&lt;N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="460"
+       y="542.36218"
+       id="text6533"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6535"
+         x="460"
+         y="542.36218"
+         style="font-size:12px;text-align:start;text-anchor:start">=N log(N)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6537"
+       y="500.21933"
+       x="0"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="500.21933"
+         x="0"
+         id="tspan6539"
+         sodipodi:role="line">Levels:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="0"
+       y="542.36218"
+       id="text6541"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6543"
+         x="0"
+         y="542.36218"
+         style="font-size:12px;text-align:start;text-anchor:start;font-weight:bold;-inkscape-font-specification:Sans Bold">Communication:</tspan></text>
   </g>
 </svg>
