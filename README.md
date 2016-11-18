@@ -12,6 +12,6 @@ $ mpirun -np 4 ./BONSAI scenarios/conf.xml
 with 
 * 4 being the number of MPI-processes (np) - it has to be a power of 2. 
 
-# Reduce
+# Algorithm
 ![alt tag](images/reduce.png "Description goes here")
 
