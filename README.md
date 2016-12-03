@@ -15,3 +15,7 @@ with
 # Algorithm
 ![alt tag](images/reduce.png "Description goes here")
 
+For an implementation for processor counts not equal power of 2 (asymetrical tree) see:
+* [https://github.com/peterrum/in2012-ws3-allreduce-sequential](https://github.com/peterrum/in2012-ws3-allreduce-sequential)
+* [https://github.com/peterrum/in2012-ws3-allreduce-asymetricaltree](https://github.com/peterrum/in2012-ws3-allreduce-asymetricaltree)
+
